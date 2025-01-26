@@ -7,8 +7,9 @@
     width: 100%;
 }
 
-.columns .jumbotron {
+.columns.jumbotron {
     background-color: grey;
+    color: yellowgreen;
 }
 
 @media (min-width: 900px) {
