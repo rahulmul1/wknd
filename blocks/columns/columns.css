@@ -10,6 +10,7 @@
 .columns.jumbotron {
     background-color: grey;
     color: yellowgreen;
+    padding: 32px;
 }
 
 @media (min-width: 900px) {
