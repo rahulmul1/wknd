@@ -10,7 +10,11 @@
 .columns.jumbotron {
     background-color: grey;
     color: yellowgreen;
-    padding: 32px;
+    padding: 16px;
+}
+
+.columns.jumbotron > div {
+    padding: 8px;
 }
 
 @media (min-width: 900px) {
