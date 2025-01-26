@@ -7,7 +7,7 @@
     width: 100%;
 }
 
-.columns jumbotron {
+.columns .jumbotron {
     background-color: grey;
 }
 
